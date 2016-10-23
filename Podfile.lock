@@ -1,20 +1,20 @@
 PODS:
-  - Appsee (2.2)
-  - AsyncDisplayKit (1.9.81):
-    - AsyncDisplayKit/PINRemoteImage (= 1.9.81)
-  - AsyncDisplayKit/ASDealloc2MainObject (1.9.81)
-  - AsyncDisplayKit/Core (1.9.81):
+  - Appsee (2.3)
+  - AsyncDisplayKit (1.9.91):
+    - AsyncDisplayKit/PINRemoteImage (= 1.9.91)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.9.91)
+  - AsyncDisplayKit/Core (1.9.91):
     - AsyncDisplayKit/ASDealloc2MainObject
-  - AsyncDisplayKit/PINRemoteImage (1.9.81):
+  - AsyncDisplayKit/PINRemoteImage (1.9.91):
     - AsyncDisplayKit/Core
-    - PINRemoteImage/iOS (>= 3.0.0-beta.2)
-  - AudioBot (0.4.1)
-  - AutoReview (0.1.0)
+    - PINRemoteImage/iOS (= 3.0.0-beta.3)
+  - AudioBot (1.0.0)
+  - AutoReview (1.0.0)
   - Base64 (1.1.2)
-  - DeviceGuru (1.3.7)
-  - Fabric (1.6.8)
+  - DeviceGuru (2.0.1)
+  - Fabric (1.6.10)
   - FXBlurView (1.6.4)
-  - JPush (2.1.8)
+  - JPush (2.1.9)
   - PINCache (3.0.1-beta)
   - PINRemoteImage/Core (3.0.0-beta.3):
     - PINCache (>= 3.0.0-beta)
@@ -39,15 +39,15 @@ DEPENDENCIES:
   - TPKeyboardAvoiding
 
 SPEC CHECKSUMS:
-  Appsee: c95173e65acaab0ffc8a082c70633c9f5f45d5f0
-  AsyncDisplayKit: 011ea22a76a79a5bbfc14501fede6e0196a3c2f0
-  AudioBot: 196817a463e5993722566527845f6a13b19a5865
-  AutoReview: 4110767f3fcfc1ea5bf0398b4f7b6a882dc2d73c
+  Appsee: 3f57734813c0bb22f5c0c6bb412c6140f23fd2fb
+  AsyncDisplayKit: 96b6939ccc95d18ce1ac9bcaddecfba3f8b4f4af
+  AudioBot: 938608091124bad501d2f8a0252bb130b2d705d2
+  AutoReview: 6dd11897fe97eda0dca3a6aafc13eeeca453620a
   Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
-  DeviceGuru: f847629dc0da0145ba48a9fc314e613ca4aa9caf
-  Fabric: 5755268d0171435ab167e3d0878a28a777deaf10
+  DeviceGuru: cc39d2a070144c9e955edd570b69e220da08f271
+  Fabric: c73f371ee543e3f0b80608f2674750e4910d1669
   FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
-  JPush: 2d1286494eae216433f6d7709b2721565b4babc9
+  JPush: 8bccf709ace4318a8e7008cc4fab42b706bfad46
   PINCache: 6911fe422a633e18b3d3ddf2bd4f0e55e36e2892
   PINRemoteImage: 308731aa6534500e58fc211b9cc2bb7252df25ba
   pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
@@ -56,4 +56,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 06808c48662dcaada4a29b7856a582d886b36474
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.1.1
